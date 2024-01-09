@@ -36,3 +36,6 @@ a {
   display: flex;
   flex-direction: column;
 }
+.maindiv_space {
+  width:290px;
+}
